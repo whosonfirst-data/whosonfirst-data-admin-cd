@@ -41,7 +41,7 @@
         "gn:id":2315785
     },
     "wof:country":"CD",
-    "wof:geomhash":"5e525e654e765fbde6cf878aa955d318",
+    "wof:geomhash":"9b242ca66197a2c4b5ced65c255fa42b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -67,5 +67,5 @@
     17.57307999999999,
     -4.28703
 ],
-  "geometry": {"coordinates":[17.57307999999999,-4.28703],"type":"Point"}
+  "geometry": {"coordinates":[17.57308,-4.28703],"type":"Point"}
 }

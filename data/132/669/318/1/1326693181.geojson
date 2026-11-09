@@ -42,7 +42,7 @@
         "wk:page":"Bakwa-Kasanga"
     },
     "wof:country":"CD",
-    "wof:geomhash":"143ede8dfa7fda9fdbe54197187f2d60",
+    "wof:geomhash":"95857d149a72c227e29f2f61954def39",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     21.11667000000001,
     -4.51667
 ],
-  "geometry": {"coordinates":[21.11667000000001,-4.51667],"type":"Point"}
+  "geometry": {"coordinates":[21.11667,-4.51667],"type":"Point"}
 }

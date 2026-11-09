@@ -42,7 +42,7 @@
         "wk:page":"Luvungi"
     },
     "wof:country":"CD",
-    "wof:geomhash":"23afbb90b37c0657e402028554c1195f",
+    "wof:geomhash":"6cf8eb8cbf95fd7417eadd21d10112fb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     29.00499000000001,
     -2.86508
 ],
-  "geometry": {"coordinates":[29.00499000000001,-2.86508],"type":"Point"}
+  "geometry": {"coordinates":[29.00499,-2.86508],"type":"Point"}
 }

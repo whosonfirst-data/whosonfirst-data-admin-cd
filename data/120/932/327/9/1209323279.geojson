@@ -45,7 +45,7 @@
         "wk:page":"Bolenge"
     },
     "wof:country":"CD",
-    "wof:geomhash":"6c70568b37dd5b56e8539507986d4188",
+    "wof:geomhash":"cea200c530de7f833ce7241efc24c664",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -68,5 +68,5 @@
     18.21667,
     0.0
 ],
-  "geometry": {"coordinates":[18.21667,0.0],"type":"Point"}
+  "geometry": {"coordinates":[18.21667,0],"type":"Point"}
 }

@@ -44,7 +44,7 @@
         "gn:id":10003182
     },
     "wof:country":"CD",
-    "wof:geomhash":"5ac75b59a07e6327422cec2b480562af",
+    "wof:geomhash":"9c5f67c3d8fa92c1cc4782d73d10e047",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -70,5 +70,5 @@
     25.19972000000001,
     -6.61908
 ],
-  "geometry": {"coordinates":[25.19972000000001,-6.61908],"type":"Point"}
+  "geometry": {"coordinates":[25.19972,-6.61908],"type":"Point"}
 }
