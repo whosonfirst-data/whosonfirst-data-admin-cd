@@ -92,12 +92,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Lukenie"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5362\u51ef\u5c3c\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u76e7\u514b\u5c3c\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -121,7 +115,7 @@
         }
     ],
     "wof:id":1243036307,
-    "wof:lastmodified":1636501461,
+    "wof:lastmodified":1794999722,
     "wof:name":"Lukenie",
     "wof:parent_id":1091679355,
     "wof:placetype":"locality",

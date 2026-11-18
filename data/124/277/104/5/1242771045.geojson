@@ -101,12 +101,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Inkisi"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u56e0\u57fa\u897f\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u5370\u57fa\u897f\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -130,7 +124,7 @@
         }
     ],
     "wof:id":1242771045,
-    "wof:lastmodified":1636501464,
+    "wof:lastmodified":1794999722,
     "wof:name":"Inkisi",
     "wof:parent_id":1091679331,
     "wof:placetype":"locality",

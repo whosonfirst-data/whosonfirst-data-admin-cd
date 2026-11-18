@@ -113,12 +113,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Ituri"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u4f0a\u56fe\u91cc\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u4f0a\u5716\u91cc\u6cb3"
-    ],
     "name:zho_x_preferred":[
         "\u4f0a\u56fe\u5229"
     ],
@@ -145,7 +139,7 @@
         }
     ],
     "wof:id":1293077325,
-    "wof:lastmodified":1636501379,
+    "wof:lastmodified":1794999722,
     "wof:name":"Ituri",
     "wof:parent_id":1091679797,
     "wof:placetype":"locality",
