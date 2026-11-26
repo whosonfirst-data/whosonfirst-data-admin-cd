@@ -1,0 +1,74 @@
+{
+  "id": 9895013394,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1061,-5.70704,26.1061,-5.70704",
+    "geom:latitude":-5.70704,
+    "geom:longitude":26.1061,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13413622: name \"Kamina\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13413622"
+        },
+        {
+            "citation":"GeoNames populated place 13413622: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13413622"
+        },
+        {
+            "citation":"GeoNames populated place 13413622: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13413622"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091680435 (Kabinda), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85670011,
+        102191573,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13413622
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a4137bd375a44d58f5b591d97b231170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":9895013394,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":9895013394,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Kamina",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.1061,
+    -5.70704,
+    26.1061,
+    -5.70704
+],
+  "geometry": {"coordinates":[26.1061,-5.70704],"type":"Point"}
+}

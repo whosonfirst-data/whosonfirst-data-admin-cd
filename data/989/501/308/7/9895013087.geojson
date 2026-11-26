@@ -1,0 +1,74 @@
+{
+  "id": 9895013087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.32546,0.56689,29.32546,0.56689",
+    "geom:latitude":0.56689,
+    "geom:longitude":29.32546,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11905962: name \"Mangodomu II\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11905962"
+        },
+        {
+            "citation":"GeoNames populated place 11905962: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11905962"
+        },
+        {
+            "citation":"GeoNames populated place 11905962: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11905962"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679863 (Nord-Kivu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85670021,
+        102191573,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11905962
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"cbf398fd469ae939129b9a69f04ab3b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":9895013087,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":9895013087,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Mangodomu II",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.32546,
+    0.56689,
+    29.32546,
+    0.56689
+],
+  "geometry": {"coordinates":[29.32546,0.56689],"type":"Point"}
+}

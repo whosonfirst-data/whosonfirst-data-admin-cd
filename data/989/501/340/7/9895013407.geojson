@@ -1,0 +1,74 @@
+{
+  "id": 9895013407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.35759,-4.38427,14.35759,-4.38427",
+    "geom:latitude":-4.38427,
+    "geom:longitude":14.35759,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13414277: name \"Kiangu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13414277"
+        },
+        {
+            "citation":"GeoNames populated place 13414277: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13414277"
+        },
+        {
+            "citation":"GeoNames populated place 13414277: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13414277"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679331 (Cataractes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669993,
+        102191573,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13414277
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d455729e153d0b102d3ada23f6ad5296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":9895013407,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":9895013407,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Kiangu",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35759,
+    -4.38427,
+    14.35759,
+    -4.38427
+],
+  "geometry": {"coordinates":[14.35759,-4.38427],"type":"Point"}
+}

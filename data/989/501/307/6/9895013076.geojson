@@ -1,0 +1,74 @@
+{
+  "id": 9895013076,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.74018,4.3284,20.74018,4.3284",
+    "geom:latitude":4.3284,
+    "geom:longitude":20.74018,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11903490: name \"Doro\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11903490"
+        },
+        {
+            "citation":"GeoNames populated place 11903490: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11903490"
+        },
+        {
+            "citation":"GeoNames populated place 11903490: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11903490"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679653 (Gbadolite), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669975,
+        102191573,
+        1091679653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11903490
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b3ebf7514370318baf4bd617befc106b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679653,
+            "locality_id":9895013076,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":9895013076,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Doro",
+    "wof:parent_id":1091679653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.74018,
+    4.3284,
+    20.74018,
+    4.3284
+],
+  "geometry": {"coordinates":[20.74018,4.3284],"type":"Point"}
+}

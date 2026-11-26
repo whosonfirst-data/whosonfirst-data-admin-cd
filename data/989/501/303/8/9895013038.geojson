@@ -1,0 +1,74 @@
+{
+  "id": 9895013038,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.90088,2.8934,22.90088,2.8934",
+    "geom:latitude":2.8934,
+    "geom:longitude":22.90088,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11902927: name \"Yanzela\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11902927"
+        },
+        {
+            "citation":"GeoNames populated place 11902927: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11902927"
+        },
+        {
+            "citation":"GeoNames populated place 11902927: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11902927"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679647 (Mongala), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669975,
+        102191573,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11902927
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"66365f72b818b3939593b09aae6f074c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":9895013038,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":9895013038,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Yanzela",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.90088,
+    2.8934,
+    22.90088,
+    2.8934
+],
+  "geometry": {"coordinates":[22.90088,2.8934],"type":"Point"}
+}

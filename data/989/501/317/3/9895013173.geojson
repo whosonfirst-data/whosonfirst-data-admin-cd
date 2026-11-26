@@ -1,0 +1,74 @@
+{
+  "id": 9895013173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.81249,-4.29712,21.81249,-4.29712",
+    "geom:latitude":-4.29712,
+    "geom:longitude":21.81249,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12503781: name \"Tete\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12503781"
+        },
+        {
+            "citation":"GeoNames populated place 12503781: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12503781"
+        },
+        {
+            "citation":"GeoNames populated place 12503781: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12503781"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091680543 (Kasai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669989,
+        102191573,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12503781
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f73daf922080ab563be8f29503b0bbe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":9895013173,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":9895013173,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Tete",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.81249,
+    -4.29712,
+    21.81249,
+    -4.29712
+],
+  "geometry": {"coordinates":[21.81249,-4.29712],"type":"Point"}
+}

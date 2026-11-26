@@ -1,0 +1,74 @@
+{
+  "id": 9895013296,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.47248,-2.97166,18.47248,-2.97166",
+    "geom:latitude":-2.97166,
+    "geom:longitude":18.47248,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12511131: name \"Binsari\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12511131"
+        },
+        {
+            "citation":"GeoNames populated place 12511131: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12511131"
+        },
+        {
+            "citation":"GeoNames populated place 12511131: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12511131"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679355 (Mai-Ndombe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669985,
+        102191573,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12511131
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8cab14e83516908d5cfa4cac9ac1bbbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":9895013296,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":9895013296,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Binsari",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.47248,
+    -2.97166,
+    18.47248,
+    -2.97166
+],
+  "geometry": {"coordinates":[18.47248,-2.97166],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895013442,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.71291,-6.21092,23.71291,-6.21092",
+    "geom:latitude":-6.21092,
+    "geom:longitude":23.71291,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13426263: name \"Bena-Kabongo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13426263"
+        },
+        {
+            "citation":"GeoNames populated place 13426263: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13426263"
+        },
+        {
+            "citation":"GeoNames populated place 13426263: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13426263"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091680373 (Tshilenge), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85670011,
+        102191573,
+        1091680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13426263
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ae2ff657a0b7df431c837cec960a7741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680373,
+            "locality_id":9895013442,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":9895013442,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Bena-Kabongo",
+    "wof:parent_id":1091680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.71291,
+    -6.21092,
+    23.71291,
+    -6.21092
+],
+  "geometry": {"coordinates":[23.71291,-6.21092],"type":"Point"}
+}

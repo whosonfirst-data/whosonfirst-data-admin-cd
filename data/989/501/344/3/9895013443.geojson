@@ -1,0 +1,74 @@
+{
+  "id": 9895013443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.23299,-6.34466,23.23299,-6.34466",
+    "geom:latitude":-6.34466,
+    "geom:longitude":23.23299,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13426264: name \"Bena-Tshiloba\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13426264"
+        },
+        {
+            "citation":"GeoNames populated place 13426264: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13426264"
+        },
+        {
+            "citation":"GeoNames populated place 13426264: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13426264"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091680373 (Tshilenge), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85670011,
+        102191573,
+        1091680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13426264
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"32d0c10a01f37cceea7814e34d7f9e98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680373,
+            "locality_id":9895013443,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":9895013443,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Bena-Tshiloba",
+    "wof:parent_id":1091680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.23299,
+    -6.34466,
+    23.23299,
+    -6.34466
+],
+  "geometry": {"coordinates":[23.23299,-6.34466],"type":"Point"}
+}

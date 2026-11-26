@@ -1,0 +1,74 @@
+{
+  "id": 9895013381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.02622,-6.80559,21.02622,-6.80559",
+    "geom:latitude":-6.80559,
+    "geom:longitude":21.02622,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13413556: name \"Mupoie\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13413556"
+        },
+        {
+            "citation":"GeoNames populated place 13413556: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13413556"
+        },
+        {
+            "citation":"GeoNames populated place 13413556: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13413556"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091680543 (Kasai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669989,
+        102191573,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13413556
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3c2a7ffccbb8e75048a39652f964745f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":9895013381,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":9895013381,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Mupoie",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.02622,
+    -6.80559,
+    21.02622,
+    -6.80559
+],
+  "geometry": {"coordinates":[21.02622,-6.80559],"type":"Point"}
+}

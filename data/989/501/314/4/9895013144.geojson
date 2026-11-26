@@ -1,0 +1,74 @@
+{
+  "id": 9895013144,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.63341,-4.8664,21.63341,-4.8664",
+    "geom:latitude":-4.8664,
+    "geom:longitude":21.63341,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12196285: name \"Bena Longo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12196285"
+        },
+        {
+            "citation":"GeoNames populated place 12196285: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12196285"
+        },
+        {
+            "citation":"GeoNames populated place 12196285: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12196285"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091680543 (Kasai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669989,
+        102191573,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12196285
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3f07a9cb14b38df15c7aae600aadee24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":9895013144,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":9895013144,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Bena Longo",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.63341,
+    -4.8664,
+    21.63341,
+    -4.8664
+],
+  "geometry": {"coordinates":[21.63341,-4.8664],"type":"Point"}
+}

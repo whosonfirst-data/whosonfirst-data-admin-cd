@@ -1,0 +1,74 @@
+{
+  "id": 9895013339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.94372,3.57233,28.94372,3.57233",
+    "geom:latitude":3.57233,
+    "geom:longitude":28.94372,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13412955: name \"Arama\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13412955"
+        },
+        {
+            "citation":"GeoNames populated place 13412955: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13412955"
+        },
+        {
+            "citation":"GeoNames populated place 13412955: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13412955"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679755 (Haut-Uele), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669979,
+        102191573,
+        1091679755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13412955
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f65df307f340c2ff2c5af7991a08c3b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679755,
+            "locality_id":9895013339,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":9895013339,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Arama",
+    "wof:parent_id":1091679755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.94372,
+    3.57233,
+    28.94372,
+    3.57233
+],
+  "geometry": {"coordinates":[28.94372,3.57233],"type":"Point"}
+}

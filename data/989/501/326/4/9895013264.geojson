@@ -1,0 +1,74 @@
+{
+  "id": 9895013264,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.53882,-6.5612,19.53882,-6.5612",
+    "geom:latitude":-6.5612,
+    "geom:longitude":19.53882,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510954: name \"Ka-Kabo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510954"
+        },
+        {
+            "citation":"GeoNames populated place 12510954: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510954"
+        },
+        {
+            "citation":"GeoNames populated place 12510954: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510954"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679429 (Kwango), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669985,
+        102191573,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510954
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"785003c9d2adb8faf1af7934c344eef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":9895013264,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":9895013264,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Ka-Kabo",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.53882,
+    -6.5612,
+    19.53882,
+    -6.5612
+],
+  "geometry": {"coordinates":[19.53882,-6.5612],"type":"Point"}
+}

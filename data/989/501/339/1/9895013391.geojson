@@ -1,0 +1,74 @@
+{
+  "id": 9895013391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.66679,-5.64097,23.66679,-5.64097",
+    "geom:latitude":-5.64097,
+    "geom:longitude":23.66679,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13413570: name \"Bakambe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13413570"
+        },
+        {
+            "citation":"GeoNames populated place 13413570: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13413570"
+        },
+        {
+            "citation":"GeoNames populated place 13413570: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13413570"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091680373 (Tshilenge), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85670011,
+        102191573,
+        1091680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13413570
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0f811c483144d49f9a90ee3a64332897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680373,
+            "locality_id":9895013391,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":9895013391,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Bakambe",
+    "wof:parent_id":1091680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.66679,
+    -5.64097,
+    23.66679,
+    -5.64097
+],
+  "geometry": {"coordinates":[23.66679,-5.64097],"type":"Point"}
+}

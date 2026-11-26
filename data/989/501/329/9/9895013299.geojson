@@ -1,0 +1,74 @@
+{
+  "id": 9895013299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.38747,2.42704,19.38747,2.42704",
+    "geom:latitude":2.42704,
+    "geom:longitude":19.38747,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12511151: name \"Modjuku\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12511151"
+        },
+        {
+            "citation":"GeoNames populated place 12511151: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12511151"
+        },
+        {
+            "citation":"GeoNames populated place 12511151: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12511151"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679559 (Sud-Ubangi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669975,
+        102191573,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12511151
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2de0246ac8f4166ea4b531713b8e8657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":9895013299,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":9895013299,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Modjuku",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.38747,
+    2.42704,
+    19.38747,
+    2.42704
+],
+  "geometry": {"coordinates":[19.38747,2.42704],"type":"Point"}
+}

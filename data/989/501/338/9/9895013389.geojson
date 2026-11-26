@@ -1,0 +1,74 @@
+{
+  "id": 9895013389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.65639,-5.92666,22.65639,-5.92666",
+    "geom:latitude":-5.92666,
+    "geom:longitude":22.65639,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13413568: name \"Tshimpanga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13413568"
+        },
+        {
+            "citation":"GeoNames populated place 13413568: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13413568"
+        },
+        {
+            "citation":"GeoNames populated place 13413568: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13413568"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091680517 (Lulua), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669989,
+        102191573,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13413568
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b5063fee523a1f1099fd9e7a1cc5ff55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":9895013389,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":9895013389,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Tshimpanga",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.65639,
+    -5.92666,
+    22.65639,
+    -5.92666
+],
+  "geometry": {"coordinates":[22.65639,-5.92666],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895012977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.61043,2.60583,18.61043,2.60583",
+    "geom:latitude":2.60583,
+    "geom:longitude":18.61043,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11887639: name \"Mbonzi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11887639"
+        },
+        {
+            "citation":"GeoNames populated place 11887639: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11887639"
+        },
+        {
+            "citation":"GeoNames populated place 11887639: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11887639"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679559 (Sud-Ubangi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669975,
+        102191573,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11887639
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ef409116fb42186f0cebe60e8a5f0f42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":9895012977,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":9895012977,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Mbonzi",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.61043,
+    2.60583,
+    18.61043,
+    2.60583
+],
+  "geometry": {"coordinates":[18.61043,2.60583],"type":"Point"}
+}

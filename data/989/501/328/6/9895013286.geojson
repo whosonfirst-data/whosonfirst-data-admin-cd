@@ -1,0 +1,74 @@
+{
+  "id": 9895013286,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5895,-8.84373,28.5895,-8.84373",
+    "geom:latitude":-8.84373,
+    "geom:longitude":28.5895,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12511079: name \"Mulonde\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12511079"
+        },
+        {
+            "citation":"GeoNames populated place 12511079: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12511079"
+        },
+        {
+            "citation":"GeoNames populated place 12511079: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12511079"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091680333 (Haut-Katanga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85670015,
+        102191573,
+        1091680333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12511079
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"93abebe79e44c1974b4e6190aad8d83a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":9895013286,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":9895013286,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Mulonde",
+    "wof:parent_id":1091680333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5895,
+    -8.84373,
+    28.5895,
+    -8.84373
+],
+  "geometry": {"coordinates":[28.5895,-8.84373],"type":"Point"}
+}

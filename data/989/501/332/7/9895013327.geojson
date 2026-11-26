@@ -1,0 +1,74 @@
+{
+  "id": 9895013327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.4761,3.84509,26.4761,3.84509",
+    "geom:latitude":3.84509,
+    "geom:longitude":26.4761,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13411309: name \"Mondeli\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13411309"
+        },
+        {
+            "citation":"GeoNames populated place 13411309: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13411309"
+        },
+        {
+            "citation":"GeoNames populated place 13411309: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13411309"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679721 (Bas-Uele), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669979,
+        102191573,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13411309
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"277aa790e365c7ad814db2c724b89621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":9895013327,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":9895013327,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Mondeli",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.4761,
+    3.84509,
+    26.4761,
+    3.84509
+],
+  "geometry": {"coordinates":[26.4761,3.84509],"type":"Point"}
+}

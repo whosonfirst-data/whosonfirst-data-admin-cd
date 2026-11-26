@@ -1,0 +1,75 @@
+{
+  "id": 9895012966,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.49769,2.37351,20.49769,2.37351",
+    "geom:latitude":2.37351,
+    "geom:longitude":20.49769,
+    "gn:population":96790,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 218855: name \"Binga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/218855"
+        },
+        {
+            "citation":"GeoNames populated place 218855: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/218855"
+        },
+        {
+            "citation":"GeoNames populated place 218855: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/218855"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679647 (Mongala), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669975,
+        102191573,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218855
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9ec120e3283f85b490c84cb61f447a7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":9895012966,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":9895012966,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Binga",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.49769,
+    2.37351,
+    20.49769,
+    2.37351
+],
+  "geometry": {"coordinates":[20.49769,2.37351],"type":"Point"}
+}

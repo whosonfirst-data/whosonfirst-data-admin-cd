@@ -1,0 +1,74 @@
+{
+  "id": 9895013317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.07876,-4.9033,27.07876,-4.9033",
+    "geom:latitude":-4.9033,
+    "geom:longitude":27.07876,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12524621: name \"Zovu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12524621"
+        },
+        {
+            "citation":"GeoNames populated place 12524621: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12524621"
+        },
+        {
+            "citation":"GeoNames populated place 12524621: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12524621"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091680093 (Maniema), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85670007,
+        102191573,
+        1091680093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12524621
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e2027f4ebd00e36406baac94f8f16e54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680093,
+            "locality_id":9895013317,
+            "region_id":85670007
+        }
+    ],
+    "wof:id":9895013317,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Zovu",
+    "wof:parent_id":1091680093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.07876,
+    -4.9033,
+    27.07876,
+    -4.9033
+],
+  "geometry": {"coordinates":[27.07876,-4.9033],"type":"Point"}
+}

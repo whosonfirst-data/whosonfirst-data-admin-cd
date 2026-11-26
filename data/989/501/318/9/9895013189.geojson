@@ -1,0 +1,74 @@
+{
+  "id": 9895013189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.13765,2.275,25.13765,2.275",
+    "geom:latitude":2.275,
+    "geom:longitude":25.13765,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12503960: name \"Wanga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12503960"
+        },
+        {
+            "citation":"GeoNames populated place 12503960: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12503960"
+        },
+        {
+            "citation":"GeoNames populated place 12503960: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12503960"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679721 (Bas-Uele), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669979,
+        102191573,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12503960
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e8943cadbd470a33668f49640cdb2a51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":9895013189,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":9895013189,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Wanga",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.13765,
+    2.275,
+    25.13765,
+    2.275
+],
+  "geometry": {"coordinates":[25.13765,2.275],"type":"Point"}
+}

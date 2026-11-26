@@ -1,0 +1,74 @@
+{
+  "id": 9895013277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.7171,-5.97282,12.7171,-5.97282",
+    "geom:latitude":-5.97282,
+    "geom:longitude":12.7171,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12511003: name \"Ponta da Lenha\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12511003"
+        },
+        {
+            "citation":"GeoNames populated place 12511003: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12511003"
+        },
+        {
+            "citation":"GeoNames populated place 12511003: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12511003"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679303 (Bas-Fleuve), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669993,
+        102191573,
+        1091679303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12511003
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0e995ea3e434dbc717d8cf2e90920c6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679303,
+            "locality_id":9895013277,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":9895013277,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Ponta da Lenha",
+    "wof:parent_id":1091679303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.7171,
+    -5.97282,
+    12.7171,
+    -5.97282
+],
+  "geometry": {"coordinates":[12.7171,-5.97282],"type":"Point"}
+}

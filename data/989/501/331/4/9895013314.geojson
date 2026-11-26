@@ -1,0 +1,74 @@
+{
+  "id": 9895013314,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.50247,-3.43396,20.50247,-3.43396",
+    "geom:latitude":-3.43396,
+    "geom:longitude":20.50247,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12524161: name \"Wumbuli\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12524161"
+        },
+        {
+            "citation":"GeoNames populated place 12524161: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12524161"
+        },
+        {
+            "citation":"GeoNames populated place 12524161: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12524161"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679355 (Mai-Ndombe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669985,
+        102191573,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12524161
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ca6755c50ff5bbe083c994849d618285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":9895013314,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":9895013314,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Wumbuli",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.50247,
+    -3.43396,
+    20.50247,
+    -3.43396
+],
+  "geometry": {"coordinates":[20.50247,-3.43396],"type":"Point"}
+}

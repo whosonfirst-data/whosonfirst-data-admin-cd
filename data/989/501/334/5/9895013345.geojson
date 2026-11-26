@@ -1,0 +1,74 @@
+{
+  "id": 9895013345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.54068,3.51134,20.54068,3.51134",
+    "geom:latitude":3.51134,
+    "geom:longitude":20.54068,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13413007: name \"Boyazamo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13413007"
+        },
+        {
+            "citation":"GeoNames populated place 13413007: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13413007"
+        },
+        {
+            "citation":"GeoNames populated place 13413007: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13413007"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679605 (Nord-Ubangi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669975,
+        102191573,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13413007
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"988b0ca6ce9567dad2c74cd0e2902728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":9895013345,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":9895013345,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Boyazamo",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.54068,
+    3.51134,
+    20.54068,
+    3.51134
+],
+  "geometry": {"coordinates":[20.54068,3.51134],"type":"Point"}
+}

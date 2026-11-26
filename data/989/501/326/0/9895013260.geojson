@@ -1,0 +1,74 @@
+{
+  "id": 9895013260,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.12885,-4.23026,19.12885,-4.23026",
+    "geom:latitude":-4.23026,
+    "geom:longitude":19.12885,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510944: name \"Mambongo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510944"
+        },
+        {
+            "citation":"GeoNames populated place 12510944: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510944"
+        },
+        {
+            "citation":"GeoNames populated place 12510944: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510944"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679385 (Kwilu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669985,
+        102191573,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510944
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3ed367d35564aafa9a66579c40251281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":9895013260,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":9895013260,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Mambongo",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.12885,
+    -4.23026,
+    19.12885,
+    -4.23026
+],
+  "geometry": {"coordinates":[19.12885,-4.23026],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895013026,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.08093,0.9529,22.08093,0.9529",
+    "geom:latitude":0.9529,
+    "geom:longitude":22.08093,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11888085: name \"Yampekwa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11888085"
+        },
+        {
+            "citation":"GeoNames populated place 11888085: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11888085"
+        },
+        {
+            "citation":"GeoNames populated place 11888085: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11888085"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679647 (Mongala), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669975,
+        102191573,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11888085
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2097c997c5e0e411b048801c326e6478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":9895013026,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":9895013026,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Yampekwa",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.08093,
+    0.9529,
+    22.08093,
+    0.9529
+],
+  "geometry": {"coordinates":[22.08093,0.9529],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895013135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4823,1.4398,30.4823,1.4398",
+    "geom:latitude":1.4398,
+    "geom:longitude":30.4823,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11952147: name \"Tchomia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11952147"
+        },
+        {
+            "citation":"GeoNames populated place 11952147: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11952147"
+        },
+        {
+            "citation":"GeoNames populated place 11952147: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11952147"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669979 (Orientale), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669979,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11952147
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"529add5bb817da60c4185eddd31de20e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "locality_id":9895013135,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":9895013135,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Tchomia",
+    "wof:parent_id":85669979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4823,
+    1.4398,
+    30.4823,
+    1.4398
+],
+  "geometry": {"coordinates":[30.4823,1.4398],"type":"Point"}
+}

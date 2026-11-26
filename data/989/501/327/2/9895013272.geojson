@@ -1,0 +1,74 @@
+{
+  "id": 9895013272,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.19712,-5.62134,13.19712,-5.62134",
+    "geom:latitude":-5.62134,
+    "geom:longitude":13.19712,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510996: name \"Kitshakala\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510996"
+        },
+        {
+            "citation":"GeoNames populated place 12510996: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510996"
+        },
+        {
+            "citation":"GeoNames populated place 12510996: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510996"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679303 (Bas-Fleuve), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669993,
+        102191573,
+        1091679303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510996
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b1cf71e89959f16f4c15de23694c4d01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679303,
+            "locality_id":9895013272,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":9895013272,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Kitshakala",
+    "wof:parent_id":1091679303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.19712,
+    -5.62134,
+    13.19712,
+    -5.62134
+],
+  "geometry": {"coordinates":[13.19712,-5.62134],"type":"Point"}
+}
