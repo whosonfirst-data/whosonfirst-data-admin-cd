@@ -1,0 +1,74 @@
+{
+  "id": 9895013365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.3456,-5.86272,21.3456,-5.86272",
+    "geom:latitude":-5.86272,
+    "geom:longitude":21.3456,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13413315: name \"Tshibinda\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13413315"
+        },
+        {
+            "citation":"GeoNames populated place 13413315: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13413315"
+        },
+        {
+            "citation":"GeoNames populated place 13413315: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13413315"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091680543 (Kasai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669989,
+        102191573,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13413315
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"300900507745c74a854e85c95c1e8a13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":9895013365,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":9895013365,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Tshibinda",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.3456,
+    -5.86272,
+    21.3456,
+    -5.86272
+],
+  "geometry": {"coordinates":[21.3456,-5.86272],"type":"Point"}
+}

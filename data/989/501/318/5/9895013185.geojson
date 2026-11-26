@@ -1,0 +1,74 @@
+{
+  "id": 9895013185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.22513,1.06776,18.22513,1.06776",
+    "geom:latitude":1.06776,
+    "geom:longitude":18.22513,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12503857: name \"Lotimba\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12503857"
+        },
+        {
+            "citation":"GeoNames populated place 12503857: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12503857"
+        },
+        {
+            "citation":"GeoNames populated place 12503857: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12503857"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679539 (Equateur), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669975,
+        102191573,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12503857
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"907530cbd3f181db133bb1e0f8bda6a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":9895013185,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":9895013185,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Lotimba",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.22513,
+    1.06776,
+    18.22513,
+    1.06776
+],
+  "geometry": {"coordinates":[18.22513,1.06776],"type":"Point"}
+}

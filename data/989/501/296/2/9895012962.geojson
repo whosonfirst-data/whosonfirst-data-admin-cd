@@ -1,0 +1,75 @@
+{
+  "id": 9895012962,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.39894,-7.29862,27.39894,-7.29862",
+    "geom:latitude":-7.29862,
+    "geom:longitude":27.39894,
+    "gn:population":82465,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 209598: name \"Manono\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/209598"
+        },
+        {
+            "citation":"GeoNames populated place 209598: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/209598"
+        },
+        {
+            "citation":"GeoNames populated place 209598: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/209598"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091680307 (Tanganyka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85670015,
+        102191573,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":209598
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"84e5780bdb9ac021913f513071f78817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":9895012962,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":9895012962,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Manono",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.39894,
+    -7.29862,
+    27.39894,
+    -7.29862
+],
+  "geometry": {"coordinates":[27.39894,-7.29862],"type":"Point"}
+}

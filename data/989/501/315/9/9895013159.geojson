@@ -1,0 +1,74 @@
+{
+  "id": 9895013159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.33138,-2.67157,27.33138,-2.67157",
+    "geom:latitude":-2.67157,
+    "geom:longitude":27.33138,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12495224: name \"Nyalubwe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12495224"
+        },
+        {
+            "citation":"GeoNames populated place 12495224: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12495224"
+        },
+        {
+            "citation":"GeoNames populated place 12495224: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12495224"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091680001 (Sud-Kivu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85670003,
+        102191573,
+        1091680001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12495224
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"89a817daf53fe4f9dcb41c1d5de7db26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680001,
+            "locality_id":9895013159,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":9895013159,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Nyalubwe",
+    "wof:parent_id":1091680001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.33138,
+    -2.67157,
+    27.33138,
+    -2.67157
+],
+  "geometry": {"coordinates":[27.33138,-2.67157],"type":"Point"}
+}

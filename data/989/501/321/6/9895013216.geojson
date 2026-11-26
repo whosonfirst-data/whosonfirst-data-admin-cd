@@ -1,0 +1,74 @@
+{
+  "id": 9895013216,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.36882,3.11199,20.36882,3.11199",
+    "geom:latitude":3.11199,
+    "geom:longitude":20.36882,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510371: name \"Boyasengaturu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510371"
+        },
+        {
+            "citation":"GeoNames populated place 12510371: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510371"
+        },
+        {
+            "citation":"GeoNames populated place 12510371: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510371"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679605 (Nord-Ubangi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669975,
+        102191573,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510371
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b28e080dfe9fc193c77f884ce5a554d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":9895013216,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":9895013216,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Boyasengaturu",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.36882,
+    3.11199,
+    20.36882,
+    3.11199
+],
+  "geometry": {"coordinates":[20.36882,3.11199],"type":"Point"}
+}

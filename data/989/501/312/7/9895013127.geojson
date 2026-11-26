@@ -1,0 +1,74 @@
+{
+  "id": 9895013127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.41878,0.20244,29.41878,0.20244",
+    "geom:latitude":0.20244,
+    "geom:longitude":29.41878,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11945469: name \"Bulambo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11945469"
+        },
+        {
+            "citation":"GeoNames populated place 11945469: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11945469"
+        },
+        {
+            "citation":"GeoNames populated place 11945469: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11945469"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679863 (Nord-Kivu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85670021,
+        102191573,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11945469
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1960fe5052503f77db797da581dc3dfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":9895013127,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":9895013127,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Bulambo",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.41878,
+    0.20244,
+    29.41878,
+    0.20244
+],
+  "geometry": {"coordinates":[29.41878,0.20244],"type":"Point"}
+}

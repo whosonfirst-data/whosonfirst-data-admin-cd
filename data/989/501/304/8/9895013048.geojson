@@ -1,0 +1,74 @@
+{
+  "id": 9895013048,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.51812,2.15702,22.51812,2.15702",
+    "geom:latitude":2.15702,
+    "geom:longitude":22.51812,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11903278: name \"Angenge\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11903278"
+        },
+        {
+            "citation":"GeoNames populated place 11903278: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11903278"
+        },
+        {
+            "citation":"GeoNames populated place 11903278: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11903278"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679647 (Mongala), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669975,
+        102191573,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11903278
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f95ab387bd4b74015625fc6176d611c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":9895013048,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":9895013048,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Angenge",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.51812,
+    2.15702,
+    22.51812,
+    2.15702
+],
+  "geometry": {"coordinates":[22.51812,2.15702],"type":"Point"}
+}

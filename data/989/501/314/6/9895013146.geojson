@@ -1,0 +1,74 @@
+{
+  "id": 9895013146,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.5503,-7.5523,22.5503,-7.5523",
+    "geom:latitude":-7.5523,
+    "geom:longitude":22.5503,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12216810: name \"Ulongo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12216810"
+        },
+        {
+            "citation":"GeoNames populated place 12216810: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12216810"
+        },
+        {
+            "citation":"GeoNames populated place 12216810: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12216810"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091680517 (Lulua), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669989,
+        102191573,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12216810
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9e6372c6a22aa9ed4fbc8a7cd3e483b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":9895013146,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":9895013146,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Ulongo",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.5503,
+    -7.5523,
+    22.5503,
+    -7.5523
+],
+  "geometry": {"coordinates":[22.5503,-7.5523],"type":"Point"}
+}

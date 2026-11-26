@@ -1,0 +1,74 @@
+{
+  "id": 9895013302,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.32187,0.68201,25.32187,0.68201",
+    "geom:latitude":0.68201,
+    "geom:longitude":25.32187,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12513932: name \"Bera\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12513932"
+        },
+        {
+            "citation":"GeoNames populated place 12513932: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12513932"
+        },
+        {
+            "citation":"GeoNames populated place 12513932: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12513932"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679655 (Kisangani), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669979,
+        102191573,
+        1091679655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12513932
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6ffe4e69acf0cba9cfe1625fe7e5e571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679655,
+            "locality_id":9895013302,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":9895013302,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Bera",
+    "wof:parent_id":1091679655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.32187,
+    0.68201,
+    25.32187,
+    0.68201
+],
+  "geometry": {"coordinates":[25.32187,0.68201],"type":"Point"}
+}

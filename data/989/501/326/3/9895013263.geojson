@@ -1,0 +1,74 @@
+{
+  "id": 9895013263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.60011,-5.94246,16.60011,-5.94246",
+    "geom:latitude":-5.94246,
+    "geom:longitude":16.60011,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510951: name \"Kabamba\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510951"
+        },
+        {
+            "citation":"GeoNames populated place 12510951: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510951"
+        },
+        {
+            "citation":"GeoNames populated place 12510951: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510951"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679429 (Kwango), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669985,
+        102191573,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510951
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2967a7f68a49c4caa339cf318e248416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":9895013263,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":9895013263,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Kabamba",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.60011,
+    -5.94246,
+    16.60011,
+    -5.94246
+],
+  "geometry": {"coordinates":[16.60011,-5.94246],"type":"Point"}
+}

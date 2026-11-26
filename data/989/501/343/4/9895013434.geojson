@@ -1,0 +1,74 @@
+{
+  "id": 9895013434,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.84778,-7.04074,25.84778,-7.04074",
+    "geom:latitude":-7.04074,
+    "geom:longitude":25.84778,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13417678: name \"Kamunza\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13417678"
+        },
+        {
+            "citation":"GeoNames populated place 13417678: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13417678"
+        },
+        {
+            "citation":"GeoNames populated place 13417678: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13417678"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091680277 (Haut-Lomami), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85670015,
+        102191573,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13417678
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"84600076637ab1bd273dad853e8a8b14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":9895013434,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":9895013434,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Kamunza",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.84778,
+    -7.04074,
+    25.84778,
+    -7.04074
+],
+  "geometry": {"coordinates":[25.84778,-7.04074],"type":"Point"}
+}

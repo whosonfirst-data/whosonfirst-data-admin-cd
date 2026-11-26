@@ -1,0 +1,74 @@
+{
+  "id": 9895013285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1759,-9.77372,28.1759,-9.77372",
+    "geom:latitude":-9.77372,
+    "geom:longitude":28.1759,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12511077: name \"Kanzambale\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12511077"
+        },
+        {
+            "citation":"GeoNames populated place 12511077: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12511077"
+        },
+        {
+            "citation":"GeoNames populated place 12511077: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12511077"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091680333 (Haut-Katanga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85670015,
+        102191573,
+        1091680333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12511077
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"12afb239e363817ff3d842d63df4d06f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":9895013285,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":9895013285,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Kanzambale",
+    "wof:parent_id":1091680333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1759,
+    -9.77372,
+    28.1759,
+    -9.77372
+],
+  "geometry": {"coordinates":[28.1759,-9.77372],"type":"Point"}
+}

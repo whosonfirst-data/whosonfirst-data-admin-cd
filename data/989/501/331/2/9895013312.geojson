@@ -1,0 +1,74 @@
+{
+  "id": 9895013312,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0928,2.40734,28.0928,2.40734",
+    "geom:latitude":2.40734,
+    "geom:longitude":28.0928,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12518867: name \"Apuku\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12518867"
+        },
+        {
+            "citation":"GeoNames populated place 12518867: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12518867"
+        },
+        {
+            "citation":"GeoNames populated place 12518867: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12518867"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679755 (Haut-Uele), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669979,
+        102191573,
+        1091679755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12518867
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a7fbf0a5de41405cf00ceff66ba2eb0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679755,
+            "locality_id":9895013312,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":9895013312,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Apuku",
+    "wof:parent_id":1091679755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0928,
+    2.40734,
+    28.0928,
+    2.40734
+],
+  "geometry": {"coordinates":[28.0928,2.40734],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895013128,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.49053,0.54048,29.49053,0.54048",
+    "geom:latitude":0.54048,
+    "geom:longitude":29.49053,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11951432: name \"Ngadi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11951432"
+        },
+        {
+            "citation":"GeoNames populated place 11951432: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11951432"
+        },
+        {
+            "citation":"GeoNames populated place 11951432: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11951432"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679907 (Beni), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85670021,
+        102191573,
+        1091679907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11951432
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3f3a51c3a8c74e721c698cb23e4c94f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679907,
+            "locality_id":9895013128,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":9895013128,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Ngadi",
+    "wof:parent_id":1091679907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.49053,
+    0.54048,
+    29.49053,
+    0.54048
+],
+  "geometry": {"coordinates":[29.49053,0.54048],"type":"Point"}
+}

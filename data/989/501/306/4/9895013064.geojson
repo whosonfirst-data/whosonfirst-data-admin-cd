@@ -1,0 +1,74 @@
+{
+  "id": 9895013064,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.95324,2.25366,22.95324,2.25366",
+    "geom:latitude":2.25366,
+    "geom:longitude":22.95324,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11903451: name \"Camp Pembe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11903451"
+        },
+        {
+            "citation":"GeoNames populated place 11903451: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11903451"
+        },
+        {
+            "citation":"GeoNames populated place 11903451: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11903451"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679647 (Mongala), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669975,
+        102191573,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11903451
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1345e5d5578c20675fb25ff39250694e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":9895013064,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":9895013064,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Camp Pembe",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.95324,
+    2.25366,
+    22.95324,
+    2.25366
+],
+  "geometry": {"coordinates":[22.95324,2.25366],"type":"Point"}
+}

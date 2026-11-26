@@ -1,0 +1,74 @@
+{
+  "id": 9895013402,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.03348,-7.25298,22.03348,-7.25298",
+    "geom:latitude":-7.25298,
+    "geom:longitude":22.03348,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13414239: name \"Luambo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13414239"
+        },
+        {
+            "citation":"GeoNames populated place 13414239: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13414239"
+        },
+        {
+            "citation":"GeoNames populated place 13414239: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13414239"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091680517 (Lulua), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669989,
+        102191573,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13414239
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e2494a6a0c2ba9197027b21947d6fec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":9895013402,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":9895013402,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Luambo",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.03348,
+    -7.25298,
+    22.03348,
+    -7.25298
+],
+  "geometry": {"coordinates":[22.03348,-7.25298],"type":"Point"}
+}

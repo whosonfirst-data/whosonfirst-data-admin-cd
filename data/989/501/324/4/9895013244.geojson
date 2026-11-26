@@ -1,0 +1,74 @@
+{
+  "id": 9895013244,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.08821,1.48271,22.08821,1.48271",
+    "geom:latitude":1.48271,
+    "geom:longitude":22.08821,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510853: name \"Lifumba\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510853"
+        },
+        {
+            "citation":"GeoNames populated place 12510853: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510853"
+        },
+        {
+            "citation":"GeoNames populated place 12510853: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510853"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679649 (Tshuapa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669975,
+        102191573,
+        1091679649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510853
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"10a42ea9773b67b9eb5d3174cfccc922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679649,
+            "locality_id":9895013244,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":9895013244,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Lifumba",
+    "wof:parent_id":1091679649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.08821,
+    1.48271,
+    22.08821,
+    1.48271
+],
+  "geometry": {"coordinates":[22.08821,1.48271],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895013226,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.46374,-4.16692,25.46374,-4.16692",
+    "geom:latitude":-4.16692,
+    "geom:longitude":25.46374,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510750: name \"Ewala\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510750"
+        },
+        {
+            "citation":"GeoNames populated place 12510750: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510750"
+        },
+        {
+            "citation":"GeoNames populated place 12510750: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510750"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091680093 (Maniema), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85670007,
+        102191573,
+        1091680093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510750
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ef94684690740bc9ddd0ffb8357a08a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680093,
+            "locality_id":9895013226,
+            "region_id":85670007
+        }
+    ],
+    "wof:id":9895013226,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Ewala",
+    "wof:parent_id":1091680093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.46374,
+    -4.16692,
+    25.46374,
+    -4.16692
+],
+  "geometry": {"coordinates":[25.46374,-4.16692],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895013108,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.37173,0.51682,29.37173,0.51682",
+    "geom:latitude":0.51682,
+    "geom:longitude":29.37173,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11919495: name \"Mangodomu I\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11919495"
+        },
+        {
+            "citation":"GeoNames populated place 11919495: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11919495"
+        },
+        {
+            "citation":"GeoNames populated place 11919495: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11919495"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679907 (Beni), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85670021,
+        102191573,
+        1091679907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11919495
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8c566e9e893456b32868c54d744493dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679907,
+            "locality_id":9895013108,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":9895013108,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Mangodomu I",
+    "wof:parent_id":1091679907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.37173,
+    0.51682,
+    29.37173,
+    0.51682
+],
+  "geometry": {"coordinates":[29.37173,0.51682],"type":"Point"}
+}

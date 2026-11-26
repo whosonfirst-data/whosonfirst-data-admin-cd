@@ -1,0 +1,74 @@
+{
+  "id": 9895013340,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.99922,3.16805,18.99922,3.16805",
+    "geom:latitude":3.16805,
+    "geom:longitude":18.99922,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13412979: name \"Yembongo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13412979"
+        },
+        {
+            "citation":"GeoNames populated place 13412979: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13412979"
+        },
+        {
+            "citation":"GeoNames populated place 13412979: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13412979"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679559 (Sud-Ubangi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669975,
+        102191573,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13412979
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"549b904ed6c64e28cd96fd4a56417900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":9895013340,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":9895013340,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Yembongo",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.99922,
+    3.16805,
+    18.99922,
+    3.16805
+],
+  "geometry": {"coordinates":[18.99922,3.16805],"type":"Point"}
+}

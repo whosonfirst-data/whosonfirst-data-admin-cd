@@ -1,0 +1,74 @@
+{
+  "id": 9895013356,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.62299,-5.32695,16.62299,-5.32695",
+    "geom:latitude":-5.32695,
+    "geom:longitude":16.62299,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13413237: name \"Dinga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13413237"
+        },
+        {
+            "citation":"GeoNames populated place 13413237: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13413237"
+        },
+        {
+            "citation":"GeoNames populated place 13413237: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13413237"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679429 (Kwango), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669985,
+        102191573,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13413237
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"69e00b7876a246710343e940eb0fc670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":9895013356,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":9895013356,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Dinga",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.62299,
+    -5.32695,
+    16.62299,
+    -5.32695
+],
+  "geometry": {"coordinates":[16.62299,-5.32695],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895013374,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.9551,-6.95605,20.9551,-6.95605",
+    "geom:latitude":-6.95605,
+    "geom:longitude":20.9551,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13413481: name \"Tshinota\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13413481"
+        },
+        {
+            "citation":"GeoNames populated place 13413481: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13413481"
+        },
+        {
+            "citation":"GeoNames populated place 13413481: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13413481"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091680543 (Kasai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669989,
+        102191573,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13413481
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"93c737b95442d9aca08bd8c1deea662e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":9895013374,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":9895013374,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Tshinota",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.9551,
+    -6.95605,
+    20.9551,
+    -6.95605
+],
+  "geometry": {"coordinates":[20.9551,-6.95605],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895013266,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.52584,-8.16529,30.52584,-8.16529",
+    "geom:latitude":-8.16529,
+    "geom:longitude":30.52584,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510964: name \"Masana\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510964"
+        },
+        {
+            "citation":"GeoNames populated place 12510964: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510964"
+        },
+        {
+            "citation":"GeoNames populated place 12510964: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510964"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091680307 (Tanganyka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85670015,
+        102191573,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510964
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b55672dc9413a88d2cc3b3e0989a2438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":9895013266,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":9895013266,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Masana",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.52584,
+    -8.16529,
+    30.52584,
+    -8.16529
+],
+  "geometry": {"coordinates":[30.52584,-8.16529],"type":"Point"}
+}

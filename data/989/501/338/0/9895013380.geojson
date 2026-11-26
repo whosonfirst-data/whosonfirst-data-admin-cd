@@ -1,0 +1,74 @@
+{
+  "id": 9895013380,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.20746,-5.83123,14.20746,-5.83123",
+    "geom:latitude":-5.83123,
+    "geom:longitude":14.20746,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13413532: name \"Kizoladio\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13413532"
+        },
+        {
+            "citation":"GeoNames populated place 13413532: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13413532"
+        },
+        {
+            "citation":"GeoNames populated place 13413532: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13413532"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679331 (Cataractes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669993,
+        102191573,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13413532
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d8d5efe08f85b3f5b9618af6ec8b709f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":9895013380,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":9895013380,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Kizoladio",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.20746,
+    -5.83123,
+    14.20746,
+    -5.83123
+],
+  "geometry": {"coordinates":[14.20746,-5.83123],"type":"Point"}
+}

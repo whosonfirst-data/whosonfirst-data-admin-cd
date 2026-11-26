@@ -1,0 +1,74 @@
+{
+  "id": 9895013417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.96704,-9.73605,22.96704,-9.73605",
+    "geom:latitude":-9.73605,
+    "geom:longitude":22.96704,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13414384: name \"Sakanga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13414384"
+        },
+        {
+            "citation":"GeoNames populated place 13414384: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13414384"
+        },
+        {
+            "citation":"GeoNames populated place 13414384: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13414384"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091680239 (Lualaba), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85670015,
+        102191573,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13414384
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d6f9b59a5f5966d4736a0da0b48155e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":9895013417,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":9895013417,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Sakanga",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.96704,
+    -9.73605,
+    22.96704,
+    -9.73605
+],
+  "geometry": {"coordinates":[22.96704,-9.73605],"type":"Point"}
+}

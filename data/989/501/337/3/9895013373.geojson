@@ -1,0 +1,74 @@
+{
+  "id": 9895013373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.90694,-0.93473,23.90694,-0.93473",
+    "geom:latitude":-0.93473,
+    "geom:longitude":23.90694,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13413478: name \"Kenake\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13413478"
+        },
+        {
+            "citation":"GeoNames populated place 13413478: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13413478"
+        },
+        {
+            "citation":"GeoNames populated place 13413478: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13413478"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679679 (Tshopo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669979,
+        102191573,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13413478
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c38bbe1657d4efac4b997bd213f0901b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":9895013373,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":9895013373,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Kenake",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.90694,
+    -0.93473,
+    23.90694,
+    -0.93473
+],
+  "geometry": {"coordinates":[23.90694,-0.93473],"type":"Point"}
+}

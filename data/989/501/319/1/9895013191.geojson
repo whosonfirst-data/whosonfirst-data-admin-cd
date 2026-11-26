@@ -1,0 +1,74 @@
+{
+  "id": 9895013191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.44713,1.41613,28.44713,1.41613",
+    "geom:latitude":1.41613,
+    "geom:longitude":28.44713,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12503964: name \"Ebiani\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12503964"
+        },
+        {
+            "citation":"GeoNames populated place 12503964: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12503964"
+        },
+        {
+            "citation":"GeoNames populated place 12503964: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12503964"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679797 (Ituri), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669979,
+        102191573,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12503964
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5d832006a4ec5df8b206e07ea3de6db0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":9895013191,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":9895013191,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Ebiani",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.44713,
+    1.41613,
+    28.44713,
+    1.41613
+],
+  "geometry": {"coordinates":[28.44713,1.41613],"type":"Point"}
+}

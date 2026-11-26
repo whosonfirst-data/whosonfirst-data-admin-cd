@@ -1,0 +1,74 @@
+{
+  "id": 9895013201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.97226,-5.61868,19.97226,-5.61868",
+    "geom:latitude":-5.61868,
+    "geom:longitude":19.97226,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509083: name \"Gunda\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509083"
+        },
+        {
+            "citation":"GeoNames populated place 12509083: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509083"
+        },
+        {
+            "citation":"GeoNames populated place 12509083: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509083"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679385 (Kwilu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669985,
+        102191573,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509083
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5280ff225dbc3b8c001d30a2c40a25eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":9895013201,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":9895013201,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Gunda",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.97226,
+    -5.61868,
+    19.97226,
+    -5.61868
+],
+  "geometry": {"coordinates":[19.97226,-5.61868],"type":"Point"}
+}

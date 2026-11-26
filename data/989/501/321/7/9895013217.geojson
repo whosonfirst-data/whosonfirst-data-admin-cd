@@ -1,0 +1,74 @@
+{
+  "id": 9895013217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.38487,2.41725,19.38487,2.41725",
+    "geom:latitude":2.41725,
+    "geom:longitude":19.38487,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510610: name \"Bongolo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510610"
+        },
+        {
+            "citation":"GeoNames populated place 12510610: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510610"
+        },
+        {
+            "citation":"GeoNames populated place 12510610: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510610"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679559 (Sud-Ubangi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669975,
+        102191573,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510610
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7bbe14af21cb4c9b28f9aba95a0f67a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":9895013217,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":9895013217,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Bongolo",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.38487,
+    2.41725,
+    19.38487,
+    2.41725
+],
+  "geometry": {"coordinates":[19.38487,2.41725],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895013104,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.25555,0.64438,29.25555,0.64438",
+    "geom:latitude":0.64438,
+    "geom:longitude":29.25555,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11906160: name \"Mapelenga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11906160"
+        },
+        {
+            "citation":"GeoNames populated place 11906160: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11906160"
+        },
+        {
+            "citation":"GeoNames populated place 11906160: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11906160"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679797 (Ituri), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669979,
+        102191573,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11906160
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ee5769718b815dd1bc60d0c33c66969f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":9895013104,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":9895013104,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Mapelenga",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.25555,
+    0.64438,
+    29.25555,
+    0.64438
+],
+  "geometry": {"coordinates":[29.25555,0.64438],"type":"Point"}
+}

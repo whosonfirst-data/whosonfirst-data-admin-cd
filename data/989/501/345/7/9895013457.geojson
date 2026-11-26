@@ -1,0 +1,74 @@
+{
+  "id": 9895013457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16391,-4.42691,15.16391,-4.42691",
+    "geom:latitude":-4.42691,
+    "geom:longitude":15.16391,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13426510: name \"Matadi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13426510"
+        },
+        {
+            "citation":"GeoNames populated place 13426510: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13426510"
+        },
+        {
+            "citation":"GeoNames populated place 13426510: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13426510"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679225 (Lukunga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669997,
+        102191573,
+        1091679225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13426510
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"670da631713470d27d50dc1143b9c92e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679225,
+            "locality_id":9895013457,
+            "region_id":85669997
+        }
+    ],
+    "wof:id":9895013457,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Matadi",
+    "wof:parent_id":1091679225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16391,
+    -4.42691,
+    15.16391,
+    -4.42691
+],
+  "geometry": {"coordinates":[15.16391,-4.42691],"type":"Point"}
+}

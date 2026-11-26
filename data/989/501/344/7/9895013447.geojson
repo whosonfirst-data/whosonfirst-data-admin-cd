@@ -1,0 +1,74 @@
+{
+  "id": 9895013447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.53769,-6.80368,23.53769,-6.80368",
+    "geom:latitude":-6.80368,
+    "geom:longitude":23.53769,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13426268: name \"Kalume\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13426268"
+        },
+        {
+            "citation":"GeoNames populated place 13426268: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13426268"
+        },
+        {
+            "citation":"GeoNames populated place 13426268: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13426268"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091680435 (Kabinda), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85670011,
+        102191573,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13426268
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d11b863351a4b109731e12185fecb53b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":9895013447,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":9895013447,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Kalume",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.53769,
+    -6.80368,
+    23.53769,
+    -6.80368
+],
+  "geometry": {"coordinates":[23.53769,-6.80368],"type":"Point"}
+}

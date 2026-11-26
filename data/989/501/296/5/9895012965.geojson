@@ -1,0 +1,74 @@
+{
+  "id": 9895012965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.96241,-6.48912,22.96241,-6.48912",
+    "geom:latitude":-6.48912,
+    "geom:longitude":22.96241,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 217336: name \"Dibaya\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/217336"
+        },
+        {
+            "citation":"GeoNames populated place 217336: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/217336"
+        },
+        {
+            "citation":"GeoNames populated place 217336: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/217336"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091680517 (Lulua), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669989,
+        102191573,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217336
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"472ab8407c7f3ae4be8ed726ce4b8a48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":9895012965,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":9895012965,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Dibaya",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.96241,
+    -6.48912,
+    22.96241,
+    -6.48912
+],
+  "geometry": {"coordinates":[22.96241,-6.48912],"type":"Point"}
+}

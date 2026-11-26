@@ -1,0 +1,74 @@
+{
+  "id": 9895013459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2753,-4.8673,15.2753,-4.8673",
+    "geom:latitude":-4.8673,
+    "geom:longitude":15.2753,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13426512: name \"Lembolo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13426512"
+        },
+        {
+            "citation":"GeoNames populated place 13426512: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13426512"
+        },
+        {
+            "citation":"GeoNames populated place 13426512: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13426512"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091679351 (Lukaya), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85669993,
+        102191573,
+        1091679351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13426512
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"befce30f219fb18fb0194f2bb08e747b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679351,
+            "locality_id":9895013459,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":9895013459,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Lembolo",
+    "wof:parent_id":1091679351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2753,
+    -4.8673,
+    15.2753,
+    -4.8673
+],
+  "geometry": {"coordinates":[15.2753,-4.8673],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895013222,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.80025,-2.6392,25.80025,-2.6392",
+    "geom:latitude":-2.6392,
+    "geom:longitude":25.80025,
+    "iso:country":"CD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510662: name \"Riba Riba\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510662"
+        },
+        {
+            "citation":"GeoNames populated place 12510662: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510662"
+        },
+        {
+            "citation":"GeoNames populated place 12510662: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510662"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091680093 (Maniema), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643,
+        85670007,
+        102191573,
+        1091680093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510662
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2264a320f335dd4c9c5d32a99ba83972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680093,
+            "locality_id":9895013222,
+            "region_id":85670007
+        }
+    ],
+    "wof:id":9895013222,
+    "wof:lastmodified":1795735031,
+    "wof:name":"Riba Riba",
+    "wof:parent_id":1091680093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.80025,
+    -2.6392,
+    25.80025,
+    -2.6392
+],
+  "geometry": {"coordinates":[25.80025,-2.6392],"type":"Point"}
+}
